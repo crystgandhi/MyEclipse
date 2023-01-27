@@ -1,1 +1,13 @@
 My java files
+Created Remote repository with one file in git hub service
+Remote repository: https://github.com/crystgandhi/Testcases.git
+clone: copy the URL
+use the following command
+git clone 'https://github.com/crystgandhi/Testcases.git'
+Now Local repository is created in My machine 
+use the following command
+ls  show all the files in the local repository
+use the following command
+cat Testscripts (filename)-------it will show the contents of the files
+
+
